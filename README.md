@@ -6,6 +6,7 @@ I build tools at the intersection of **machine learning, LLM agents, and everyda
 
 | Repo | What it is |
 | --- | --- |
+| [jobforce](https://github.com/wmar-dev/jobforce) | Superhero agent team for finding a job |
 | [claude-skills](https://github.com/wmar-dev/claude-skills) | Claude skills to install globally |
 | [web-fetch-2000-mcp](https://github.com/wmar-dev/web-fetch-2000-mcp) | MCP server for improved web fetch |
 | [claude-code-sat-tutor](https://github.com/wmar-dev/claude-code-sat-tutor) | Helper for tutoring a high school student for the SATs |
@@ -38,6 +39,7 @@ I build tools at the intersection of **machine learning, LLM agents, and everyda
 | [value-ranking](https://github.com/wmar-dev/value-ranking) | Web app for ranking values |
 | [wordpress-to-jekyll](https://github.com/wmar-dev/wordpress-to-jekyll) | Convert WordPress XML export to Jekyll posts |
 | [costco-passport](https://github.com/wmar-dev/costco-passport) | Costco Passport |
+| [usda-food-plan](https://github.com/wmar-dev/usda-food-plan) | USDA Food Plan calculator |
 
 ## 🎮 Simulation & Graphics
 
