@@ -22,6 +22,7 @@ I build tools at the intersection of **machine learning, LLM agents, and everyda
 | [kaggriculture](https://github.com/wmar-dev/kaggriculture) | Kaggle kaggriculture competition |
 | [orbit-wars](https://github.com/wmar-dev/orbit-wars) | Kaggle competition |
 | [jotto](https://github.com/wmar-dev/jotto) | Information theory applied to code-breaking games (Jotto, Wordle, Mastermind, Bulls and Cows) |
+| [jevron](https://github.com/wmar-dev/jevron) | Labeling the Enron email corpus with structured, typed answers from TypeSafe AI's Jev model |
 | [classification-metrics](https://github.com/wmar-dev/classification-metrics) | Plot of classification metrics |
 | [hot-dog-not-hot-dog](https://github.com/wmar-dev/hot-dog-not-hot-dog) | Hot Dog or Not Hot Dog, as inspired by *Silicon Valley* |
 | [vector-database](https://github.com/wmar-dev/vector-database) | Examples of using vector databases |
