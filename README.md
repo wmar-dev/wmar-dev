@@ -41,6 +41,7 @@ I build tools at the intersection of **machine learning, LLM agents, and everyda
 | [wordpress-to-jekyll](https://github.com/wmar-dev/wordpress-to-jekyll) | Convert WordPress XML export to Jekyll posts |
 | [costco-passport](https://github.com/wmar-dev/costco-passport) | Costco Passport |
 | [usda-food-plan](https://github.com/wmar-dev/usda-food-plan) | USDA Food Plan calculator |
+| [fake-artist-question-master](https://github.com/wmar-dev/fake-artist-question-master) | Question master for *A Fake Artist Goes to New York* (Go) |
 
 ## 🎮 Simulation & Graphics
 
