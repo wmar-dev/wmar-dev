@@ -32,3 +32,4 @@ Never list these, even though they're public:
 
 - `wmar-dev` (this profile repo)
 - `llm-wiki-hn`
+- `google-verifiable-quantum-circuit-compilation` (until it has real progress)

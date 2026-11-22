@@ -48,6 +48,7 @@ I build tools at the intersection of **machine learning, LLM agents, and everyda
 | Repo | What it is |
 | --- | --- |
 | [blackhole-sim](https://github.com/wmar-dev/blackhole-sim) | Black hole simulation à la *Interstellar* (Swift) |
+| [open-hands](https://github.com/wmar-dev/open-hands) | OpenSCAD ❤️ Claude |
 
 ## 🛠️ Dev Environment, Home Lab & Hardware
 
@@ -65,5 +66,6 @@ I build tools at the intersection of **machine learning, LLM agents, and everyda
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?logo=gnubash&logoColor=white)
+![OpenSCAD](https://img.shields.io/badge/OpenSCAD-F9D72C?logo=openscad&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white)
